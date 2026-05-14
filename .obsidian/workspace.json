@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260513.md",
+                "file": "269514.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260513"
+              "title": "269514"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "260513.md",
+                "file": "269514.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "260513 의 나가는 링크"
+              "title": "269514 의 나가는 링크"
             }
           },
           {
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,24 +185,26 @@
   },
   "active": "9793f1ee797f0d9f",
   "lastOpenFiles": [
+    "260511 무제.md",
+    "269514.md",
     "260512 무제.md",
+    "타이타닉 백앤드 개발/260507_fastapi-init.md",
+    "create a link.md",
+    "환영합니다!.md",
+    "무제.base",
     "260513.md",
     "docs/260512 무제.md",
     "docs/260511 무제.md",
     "docs",
     "새 폴더",
-    "무제.base",
     "무제 1.md",
-    "260511 무제.md",
     "5월 개발/biology_mvp_agent.md",
     "5월 개발/helix_app_naming.md",
     "5월 개발/console_game_app_naming.md",
     "5월 개발/Helix_FlutterFlow_Spec.md",
     "5월 개발/생명과학_연구보조_에이전트_기획.md",
-    "create a link.md",
     "biology_mvp_agent.md",
     "5월 개발",
-    "console_game_app_naming.md",
-    "환영합니다!.md"
+    "console_game_app_naming.md"
   ]
 }
