@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "269514.md",
+                "file": "260515.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "269514"
+              "title": "260515"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "269514.md",
+                "file": "260515.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "269514 의 나가는 링크"
+              "title": "260515 의 나가는 링크"
             }
           },
           {
@@ -185,8 +185,9 @@
   },
   "active": "9793f1ee797f0d9f",
   "lastOpenFiles": [
+    "260514.md",
+    "260515.md",
     "260511 무제.md",
-    "269514.md",
     "260512 무제.md",
     "타이타닉 백앤드 개발/260507_fastapi-init.md",
     "create a link.md",
