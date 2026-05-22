@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260521.md",
+                "file": "schema_erd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260521"
+              "title": "schema_erd"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "260521.md",
+                "file": "schema_erd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "260521 의 나가는 링크"
+              "title": "schema_erd 의 나가는 링크"
             }
           },
           {
@@ -186,8 +186,13 @@
   "active": "a7e26174e95bcd4d",
   "lastOpenFiles": [
     "DevOps/backend/PAPER_ERD.md",
-    "DevOps/backend/TITANIC_ERD.md",
+    "schema_erd.md",
     "DevOps/backend/ENTITY_RULES.md",
+    "DevOps/backend/ERD.md",
+    "수업/260522.md",
+    "수업/Pasted image 20260521170338.png",
+    "DevOps/backend/TITANIC_ERD.md",
+    "수업/260521.md",
     "260521.md",
     "Pasted image 20260521170338.png",
     "DevOps/frontend/REACT_RULES.md",
@@ -217,10 +222,6 @@
     "AIOPS/backend/entity_rules.md",
     "AIOPS/backend/backend_rules.md",
     "타이타닉 백앤드 개발/260507_fastapi-init.md",
-    "AIOPS/frontend/REACT_RULES.md",
-    "260513.md",
-    "AIOPS/README.md",
-    "260518.md",
-    "260515.md"
+    "AIOPS/frontend/REACT_RULES.md"
   ]
 }
