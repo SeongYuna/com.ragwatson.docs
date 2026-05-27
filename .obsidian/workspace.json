@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "schema_erd.md",
+                "file": "수업/260527.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schema_erd"
+              "title": "260527"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "schema_erd.md",
+                "file": "수업/260527.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "schema_erd 의 나가는 링크"
+              "title": "260527 의 나가는 링크"
             }
           },
           {
@@ -185,14 +185,19 @@
   },
   "active": "a7e26174e95bcd4d",
   "lastOpenFiles": [
+    "수업/260526.md",
+    "수업/260527.md",
+    "DevOps/backend/schema_erd.md",
     "DevOps/backend/PAPER_ERD.md",
-    "schema_erd.md",
+    "Pasted image 20260526130734.png",
+    "Pasted image 20260526130717.png",
+    "무제.md",
+    "수업/260522.md",
+    "DevOps/backend/TITANIC_ERD.md",
+    "수업/Pasted image 20260521170338.png",
+    "수업/260521.md",
     "DevOps/backend/ENTITY_RULES.md",
     "DevOps/backend/ERD.md",
-    "수업/260522.md",
-    "수업/Pasted image 20260521170338.png",
-    "DevOps/backend/TITANIC_ERD.md",
-    "수업/260521.md",
     "260521.md",
     "Pasted image 20260521170338.png",
     "DevOps/frontend/REACT_RULES.md",
@@ -219,9 +224,6 @@
     "260519.md",
     "무제.base",
     "AIOPS/backend/ENTITY_RULES.md",
-    "AIOPS/backend/entity_rules.md",
-    "AIOPS/backend/backend_rules.md",
-    "타이타닉 백앤드 개발/260507_fastapi-init.md",
-    "AIOPS/frontend/REACT_RULES.md"
+    "AIOPS/backend/entity_rules.md"
   ]
 }

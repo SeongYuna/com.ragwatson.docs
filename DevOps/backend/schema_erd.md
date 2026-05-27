@@ -210,14 +210,14 @@ erDiagram
 
 ### `users` — 사용자 계정
 
-| 컬럼 | 타입 | 설명 |
-|------|------|------|
-| `id` | uuid | PK |
-| `email` | varchar | 로그인 이메일 |
-| `name` | varchar | 표시 이름 |
-| `preferred_lang` | varchar | 선호 언어 (ko, en, ja …) |
-| `reader_level` | enum | beginner / undergrad / expert |
-| `created_at` | timestamp | 가입일 |
+| 컬럼               | 타입        | 설명                            |
+| ---------------- | --------- | ----------------------------- |
+| `id`             | uuid      | PK                            |
+| `email`          | varchar   | 로그인 이메일                       |
+| `name`           | varchar   | 표시 이름                         |
+| `preferred_lang` | varchar   | 선호 언어 (ko, en, ja …)          |
+| `reader_level`   | enum      | beginner / undergrad / expert |
+| `created_at`     | timestamp | 가입일                           |
 
 ### `plans` — 플랜 정의
 
@@ -372,13 +372,13 @@ erDiagram
 
 ### `comparison_rows` — 항목별 비교 결과
 
-| 컬럼 | 타입 | 설명 |
-|------|------|------|
-| `id` | uuid | PK |
-| `comparison_id` | uuid | FK → comparisons |
-| `dimension` | varchar | 비교 항목명 |
-| `paper_id` | uuid | FK → papers |
-| `value` | text | 해당 항목의 값 |
+| 컬럼              | 타입      | 설명               |
+| --------------- | ------- | ---------------- |
+| `id`            | uuid    | PK               |
+| `comparison_id` | uuid    | FK → comparisons |
+| `dimension`     | varchar | 비교 항목명           |
+| `paper_id`      | uuid    | FK → papers      |
+| `value`         | text    | 해당 항목의 값         |
 
 > 원본 `comparison_table jsonb [{dimension, values[]}]`를 행으로 정규화
 
@@ -480,13 +480,13 @@ erDiagram
 
 ## 테이블 목록 요약
 
-| 그룹 | 테이블 | 비고 |
-|------|--------|------|
-| 👤 사용자 | `users`, `plans`, `user_plans`, `quota_usage`, `teams`, `team_members` | 6개 |
-| 📄 논문 | `papers`, `authors`, `paper_authors`, `user_papers` | 4개 |
-| 📁 폴더 | `folders`, `folder_papers`, `folder_paper_votes` | 3개 |
-| ⚖️ 비교 | `comparisons`, `comparison_papers`, `comparison_rows` | 3개 |
-| 📝 요약 | `summaries`, `summary_content`, `summary_analysis` | 3개 |
-| 💬 대화 | `qa_sessions`, `qa_messages` | 2개 |
-| 🔗 인용 | `citations`, `citation_formats` | 2개 |
-| **합계** | | **25개** |
+| 그룹     | 테이블                                                                    | 비고      |
+| ------ | ---------------------------------------------------------------------- | ------- |
+| 👤 사용자 | `users`, `plans`, `user_plans`, `quota_usage`, `teams`, `team_members` | 6개      |
+| 📄 논문  | `papers`, `authors`, `paper_authors`, `user_papers`                    | 4개      |
+| 📁 폴더  | `folders`, `folder_papers`, `folder_paper_votes`                       | 3개      |
+| ⚖️ 비교  | `comparisons`, `comparison_papers`, `comparison_rows`                  | 3개      |
+| 📝 요약  | `summaries`, `summary_content`, `summary_analysis`                     | 3개      |
+| 💬 대화  | `qa_sessions`, `qa_messages`                                           | 2개      |
+| 🔗 인용  | `citations`, `citation_formats`                                        | 2개      |
+| **합계** |                                                                        | **25개** |
