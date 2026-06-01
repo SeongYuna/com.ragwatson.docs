@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/260527.md",
+                "file": "수업/260601.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260527"
+              "title": "260601"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/260527.md",
+                "file": "수업/260601.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "260527 의 나가는 링크"
+              "title": "260601 의 나가는 링크"
             }
           },
           {
@@ -185,6 +185,8 @@
   },
   "active": "a7e26174e95bcd4d",
   "lastOpenFiles": [
+    "수업/260527.md",
+    "수업/260601.md",
     "Pasted image 20260528165258.png",
     "Pasted image 20260528165246.png",
     "Pasted image 20260528165222.png",
@@ -193,7 +195,6 @@
     "Pasted image 20260528164735.png",
     "Pasted image 20260528145549.png",
     "수업/260526.md",
-    "수업/260527.md",
     "DevOps/backend/schema_erd.md",
     "DevOps/backend/PAPER_ERD.md",
     "Pasted image 20260526130734.png",
@@ -206,7 +207,6 @@
     "DevOps/backend/ENTITY_RULES.md",
     "DevOps/backend/ERD.md",
     "260521.md",
-    "Pasted image 20260521170338.png",
     "DevOps/frontend/REACT_RULES.md",
     "DevOps/operator",
     "DevOps/README.md",
